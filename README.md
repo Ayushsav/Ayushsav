@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Savner</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2F5eKX.gif&f=1&nofb=1&ipt=1f809d2cdc33c9843693e6c8ebe4c3a6a6ce5486172668be86fd23c2f673adb5&ipo=images">
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=800cc3537bfad26950f8d317aa60d456eea3b46ed600c6c58289e994d29b6bd5&ipo=images">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsav&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsav" /> </p>
