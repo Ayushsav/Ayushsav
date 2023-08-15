@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayush Savner</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=800cc3537bfad26950f8d317aa60d456eea3b46ed600c6c58289e994d29b6bd5&ipo=images">
 
 
