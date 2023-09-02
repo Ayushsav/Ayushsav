@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://ayushsav.github.io/portfolio.github.io/#](https://ayushsav.github.io/portfolio.github.io/#)
+- 👨‍💻 All of my projects are available at [https://github.com/ayushsav](https://github.com/ayushsav)
 
 - 💬 Ask me about **python,react**
 
